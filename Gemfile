@@ -9,4 +9,3 @@ group :development do
 gem "pry"
 end
 gem "rspec", :groups => [:test]
-
